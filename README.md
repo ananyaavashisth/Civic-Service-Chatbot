@@ -1,7 +1,7 @@
 # Civic Service Chatbot (NDMC-Themed)
 
 A personal AI chatbot project built during my internship, themed around NDMC services. It helps simulate how a local government assistant might respond to citizen queries about sanitation, complaints, and general services. No official NDMC data was used—mock datasets were created for demonstration.
-
+<img width="1314" height="692" alt="Image" src="https://github.com/user-attachments/assets/1722734d-fe42-4461-b27e-dae73c4cb8b4" />
 ## Features
 - Natural language interface for mock civic queries
 - LangChain agent powered by Ollama (LLM)
