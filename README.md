@@ -13,7 +13,6 @@ A personal AI chatbot project built during my internship, themed around NDMC ser
 - Ollama (LLM)
 - LangChain
 - Streamlit
-- spaCy
 - Pandas
 
 ## How to Run Locally
